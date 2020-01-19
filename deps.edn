@@ -1,0 +1,4 @@
+{:paths ["src"]
+ :deps  {org.clojure/clojure  {:mvn/version "1.8.0"}
+         org.flatland/ordered {:mvn/version "1.5.7"}
+         hiccup               {:mvn/version "1.0.5"}}}
